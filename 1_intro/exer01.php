@@ -1,0 +1,5 @@
+<?php
+
+echo "joão pedro";
+
+?>
